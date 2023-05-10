@@ -4,8 +4,8 @@
 
         <!-- start slider 1 -->
         <div class="carousel-cell">
-            <h5 class="title">{$LANG.store.codeGuard.features.dailyBackupDescription}</h5>
-            <p class="sub-text">{$LANG.store.codeguard.cartShortDescription}</p>
+            <h5 class="title">NextCloud Unlimited</h5>
+            <p class="sub-text">Jetzt Cloudzugriff beantragen und sichere dir noch heute Unlimited SSD Speicher !</p>
             <div class="img-banner-fteatures">
                 <img src="{$WEB_ROOT}/templates/{$template}/img/banners/codeguard.png" alt="" />
                 <span>{$LANG.store.codeGuard.dailyBackup}</span>
