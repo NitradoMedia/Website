@@ -4,13 +4,13 @@
 
         <!-- start slider 1 -->
         <div class="carousel-cell">
-            <h5 class="title">NextCloud Unlimited</h5>
-            <p class="sub-text">Jetzt Cloudzugriff beantragen und sichere dir noch heute Unlimited SSD Speicher !</p>
+            <h5 class="title">Cloud Unlimited</h5>
+            <p class="sub-text">Jetzt 5gb kostenlosen NextCloud Zugriff sichern!</p>
             <div class="img-banner-fteatures">
                 <img src="{$WEB_ROOT}/templates/{$template}/img/banners/codeguard.png" alt="" />
                 <span>{$LANG.store.codeGuard.dailyBackup}</span>
             </div>
-            <a class="order-button" href="cart.php">{$LANG.readmore}<i class="feather icon-chevron-right"></i></a>
+            <a class="order-button" href="https://storage.cloud-unlimited.net/">{$LANG.Zur Cloud}<i class="feather icon-chevron-right"></i></a>
         </div>
         <!-- end slider 1 -->
 
