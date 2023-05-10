@@ -1,4 +1,4 @@
-<!-- start homepage plans area-->1aaaaaaaaaaaaaa
+<!-- start homepage plans area-->
 <div class="container-fluid main-fluid">
     <div class="row">
         <div class="col-md-12">
