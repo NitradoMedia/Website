@@ -7,10 +7,10 @@
             <h5 class="title">Cloud Unlimited</h5>
             <p class="sub-text">Jetzt 5gb kostenlosen NextCloud Zugriff sichern!</p>
             <div class="img-banner-fteatures">
-                <img src="{$WEB_ROOT}/templates/{$template}/img/banners/codeguard.png" alt="" />
+                <img src="https://i.ibb.co/b6TVKFC/Unlimited-AI-CS6-2png.png" alt="" />
                 <span>{$LANG.store.codeGuard.dailyBackup}</span>
             </div>
-            <a class="order-button" href="https://storage.cloud-unlimited.net/">{$LANG.Zur Cloud}<i class="feather icon-chevron-right"></i></a>
+            <a class="order-button" href="https://storage.cloud-unlimited.net/index.php/login">Zur Cloud<i class="feather icon-chevron-right"></i></a>
         </div>
         <!-- end slider 1 -->
 
