@@ -1,11 +1,6 @@
 <!-- start features area -->
 <div class="whitebg fetures-container">
-    <div class="container-fluid main-fluid">
-        <div class="main-title center-text"><!-- start features title -->
-            <h6>Server</h6>
-            <h2>dein eigener Managed Root Server?<br>oder doch lieber einen kostengünstigen Vserver </h2>
-            <p class="withandspan"><span>&&</span>Hochleistungsserver oder ein Vserver für deinen Blog/Website, hier findest du ganz bestimmt die passende Hardware </p>
-        </div><!-- end features title -->
+    <div class="container-fluid main-fluid"><!-- end features title -->
 
         <div class="row">
 		<!-- start features box -->
@@ -47,13 +42,13 @@
                 </div>
             </div>
 		<!-- end features box -->
-        </div>
+      </div>
 		
-    </div>
+  </div>
 	<div class="main-title center-text"><!-- start features title -->
             <h6>Server</h6>
             <h2>dein eigener Managed Root Server?<br>oder doch lieber einen kostengünstigen Vserver </h2>
             <p class="withandspan"><span>&&</span>Hochleistungsserver oder ein Vserver für deinen Blog/Website, hier findest du ganz bestimmt die passende Hardware </p>
-        </div>
+  </div>
 </div>
 <!-- end features area -->
