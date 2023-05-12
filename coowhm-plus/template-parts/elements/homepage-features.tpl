@@ -46,6 +46,16 @@
                     <p>Proactively monitors for and alerts you about any malware that is detected on your website.</p>
                 </div>
             </div>
+			Server
+
+dein eigener Managed Root Server?
+oder doch lieber einen kostengünstigen Vserver 
+
+&&Hochleistungsserver oder ein Vserver für deinen Blog/Website, hier findest du ganz bestimmt die passende Hardware 
+
+
+
+
 		<!-- end features box -->
         </div>
     </div>
