@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="en" {if ($language == 'arabic' || $language == 'hebrew' || $language == 'farsi')}dir="rtl"{/if}>
-    <head>
+<html lang="en" {if ($language == 'arabic' || $language == 'hebrew' || $language == 'farsi')}dir="rtl"{/if}><head>
     <meta charset="{$charset}" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="author" content="coodiv team (https://themeforest.net/user/coodiv)">
 	<link rel="icon" href="{$WEB_ROOT}/templates/{$template}/favicon.ico">
     <title>{if $kbarticle.title}{$kbarticle.title} - {/if}{$pagetitle} - {$companyname}</title>
+    
     {include file="$template/includes/head.tpl"} 
 	{$headoutput}
     </head>
-    <body class="body-move astrhost-version vertical-menu body-style-2 dark-mode {if $loginpage eq 0 and $templatefile ne "clientregister"}not-login-page{/if}{if $templatefile == 'homepage'} this-is-index-page{/if} {if ($language == 'arabic' || $language == 'hebrew' || $language == 'farsi')}rtl-active{/if}" data-phone-cc-input="{$phoneNumberInputStyle}">
+    <body class="body-move default-version vertical-menu body-style-2 dark-mode {if $loginpage eq 0 and $templatefile ne "clientregister"}not-login-page{/if}{if $templatefile == 'homepage'} this-is-index-page{/if} {if ($language == 'arabic' || $language == 'hebrew' || $language == 'farsi')}rtl-active{/if}" data-phone-cc-input="{$phoneNumberInputStyle}">
     {$headeroutput}
 	
 	
