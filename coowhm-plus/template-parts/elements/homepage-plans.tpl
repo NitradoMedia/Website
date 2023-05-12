@@ -74,9 +74,11 @@
 				
 				
                
+                <h2>&nbsp;</h2>
                 <h2>unsicher welches Paket? <br>vergleiche alle 3 Hosting Produkte</h2>
                 <p>solltest du dir danach immer noch nicht sicher sein,
-                <br>lass dich gerne von uns Live im Discord Server beraten, vollkommen kostenlos.</p>
+                <br>
+              lass dich gerne von uns Live im Discord Server beraten, vollkommen kostenlos.</p>
     </div>
 	
 </div>
