@@ -3,10 +3,10 @@
     <div class="row">
         <div class="col-md-12">
             <div class="main-title center-text"><!-- start homepage plans title -->
-                <h6>Our pricing</h6>
-                <h2>Not any hidden <br>charge, Choose your pricing plan</h2>
-                <p>We have differe type of pricing table to choose with
-                <br>your need with resonable price. </p>
+                <h6>Webhosting </h6>
+                <h2>Keine versteckten <br>kosten, wähle dein Hosting Paket</h2>
+                <p>Wir haben 3 verschiedene Arten von Hosting-Paketen zur Auswahl,
+                <br>je nach Bedarf zu einem unschlagbaren Preis. </p>
             </div><!-- end homepage plans title -->
         </div>
     </div>
@@ -22,16 +22,16 @@
                     <i class="fas fa-box" data-toggle="tooltip" data-placement="bottom" title="fast delevry"></i>
                     <i class="fab fa-cc-visa" data-toggle="tooltip" data-placement="bottom" title="visa accepted"></i>
                 </div>
-                <div class="reseller-hosting-plan-title">Standard plan <span>small projects</span></div>
-                <div class="reseller-hosting-plan-price">$259 <span>yearly/ttc</span></div>
+                <div class="reseller-hosting-plan-title">Webhosting Unlimited<span>All-In-One ∞-Cloud</span></div>
+                <div class="reseller-hosting-plan-price">19.99€ <span>/monat</span></div>
                 <ul class="reseller-hosting-plan-list">
-                    <li>2 TB of space</li>
-                    <li>unlimited bandwidth</li>
-                    <li>Full backup systems</li>
-                    <li>Unlimited database</li>
-                    <li class="not-checked"><s>Free Phone Support</s></li>
+                    <li>∞ TB SSD Speicher</li>
+                    <li>∞ Bandbreite</li>
+                    <li>∞ Backups </li>
+                    <li>∞ Datenbanken</li>
+                    <li>Discord 24/7 Support</li>
                 </ul>
-                <p class="reseller-hosting-plan-order"><a href="{$WEB_ROOT}/cart.php">order now</a></p><!-- plan link -->
+                <p class="reseller-hosting-plan-order"><a href="{$WEB_ROOT}/store/webhosting/webhosting-unlimited">jetzt bestellen</a></p><!-- plan link -->
             </div>
         </div>
 	<!-- end homepage first plans -->
@@ -46,9 +46,9 @@
                     <i class="fas fa-box" data-toggle="tooltip" data-placement="bottom" title="fast delevry"></i>
                     <i class="fab fa-cc-visa" data-toggle="tooltip" data-placement="bottom" title="visa accepted"></i>
                 </div>
-                <div class="reseller-hosting-plan-title">Expert plan <span>normal projects (+22%)</span></div>
-                <div class="reseller-hosting-plan-price">$292 <span>yearly/ttc</span> <a href="{$WEB_ROOT}/cart.php">order now</a></div><!-- plan link -->
-                <div class="reseller-hosting-plan-rating"><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star not-checked"></i> <i class="fas fa-star not-checked"></i> </div>
+                <div class="reseller-hosting-plan-title">Webhosting Plus <span>normal projects</span></div>
+                <div class="reseller-hosting-plan-price">4,99€ <span>/monat</span> <a href="{$WEB_ROOT}/store/webhosting/webhosting-plus">jetzt bestellen</a></div><!-- plan link -->
+                <div class="reseller-hosting-plan-rating"><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> </div>
             </div>
 		<!-- end homepage second plans -->
 
@@ -60,13 +60,24 @@
                     <i class="fas fa-box" data-toggle="tooltip" data-placement="bottom" title="fast delevry"></i>
                     <i class="fab fa-cc-visa" data-toggle="tooltip" data-placement="bottom" title="visa accepted"></i>
                 </div>
-                <div class="reseller-hosting-plan-title">Relluxe plan <span>big projects (+59%)</span></div>
-                <div class="reseller-hosting-plan-price">$322 <span>yearly/ttc</span> <a href="{$WEB_ROOT}/cart.php">order now</a></div><!-- plan link -->
-                <div class="reseller-hosting-plan-rating"><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star-half"></i> </div>
+                <div class="reseller-hosting-plan-title">Webhosting Starter<span>small projects </span></div>
+                <div class="reseller-hosting-plan-price">0,99€ <span>/monat</span> <a href="{$WEB_ROOT}/store/webhosting/webhosting-starter">jetzt bestellen</a></div><!-- plan link -->
+                <div class="reseller-hosting-plan-rating"><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> </div>
             </div>
 		<!-- end homepage first plans -->
 			
         </div>
+		<div class="container-fluid main-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="main-title center-text"><!-- start homepage plans title -->
+				
+				
+               
+                <h2>unsicher welches Paket? <br>vergleiche alle 3 Hosting Produkte</h2>
+                <p>solltest du dir danach immer noch nicht sicher sein,
+                <br>lass dich gerne von uns Live im Discord Server beraten, vollkommen kostenlos.</p>
     </div>
+	
 </div>
 <!-- end homepage plans area -->
