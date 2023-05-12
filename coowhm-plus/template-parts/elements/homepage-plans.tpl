@@ -79,7 +79,4 @@
                 <p>solltest du dir danach immer noch nicht sicher sein,
                 <br>
               lass dich gerne von uns Live im Discord Server beraten, vollkommen kostenlos.<a href="{$WEB_ROOT}/store/webhosting">jetzt vergleichen</a></div></p>
-    </div>
-	
-</div>
 <!-- end homepage plans area -->
