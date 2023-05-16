@@ -10315,7 +10315,7 @@ body.body-style-2.not-login-page {
 -------------------------------------------------------------------*/
 .container-clientarea{
     width: 100%;
-    background: #35c7e0;
+    background: #fff;
     background: radial-gradient(circle, rgb(122, 217, 234) 0%, rgb(129, 233, 251) 0%, rgb(123, 217, 233) 100%);
     position: relative;
     border-radius: 8px;
