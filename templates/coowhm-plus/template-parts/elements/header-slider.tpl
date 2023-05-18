@@ -41,7 +41,7 @@
                     <img src="{$WEB_ROOT}/templates/{$template}/img/slider/elements/slide-1/graphic.png" alt="" />
 					<div class="img-slider-elements domains">
 					<img src="{$WEB_ROOT}/templates/{$template}/img/slider/elements/slide-1/com.png" alt="" />
-					<img src="{$WEB_ROOT}/templates/{$template}/img/slider/elements/slide-1/org.png" alt="" />
+					<img src="{$WEB_ROOT}/templates/{$template}/img/slider/elements/slide-1/de.png" alt="" />
 					<img src="{$WEB_ROOT}/templates/{$template}/img/slider/elements/slide-1/net.png" alt="" />
 					</div>
                 </div>
