@@ -10,7 +10,7 @@
     {include file="$template/includes/head.tpl"} 
 	{$headoutput}
     </head>
-    <body class="body-move default-version vertical-menu body-style-2 dark-mode {if $loginpage eq 0 and $templatefile ne "clientregister"}not-login-page{/if}{if $templatefile == 'homepage'} this-is-index-page{/if} {if ($language == 'arabic' || $language == 'hebrew' || $language == 'farsi')}rtl-active{/if}" data-phone-cc-input="{$phoneNumberInputStyle}">
+    <body class="body-move astrhost-version vertical-menu body-style-2 dark-mode {if $loginpage eq 0 and $templatefile ne "clientregister"}not-login-page{/if}{if $templatefile == 'homepage'} this-is-index-page{/if} {if ($language == 'arabic' || $language == 'hebrew' || $language == 'farsi')}rtl-active{/if}" data-phone-cc-input="{$phoneNumberInputStyle}">
     {$headeroutput}
 	
 	

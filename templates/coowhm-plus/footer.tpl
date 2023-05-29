@@ -16,12 +16,16 @@
 <div class="footer-menu">
 <a href="{$WEB_ROOT}/cart.php" target="_blank">{$LANG.navStore}</a>
 {if !$loggedin}
-<a href="{$WEB_ROOT}/register.php" target="_blank">{$LANG.register}</a>
+<a href="{$WEB_ROOT}/register.php" target="">{$LANG.register}</a>
 {else}
 <a href="clientarea.php" target="_blank">{$LANG.clientareanavhome}</a>
 {/if}
-<a href="{$WEB_ROOT}/contact.php" target="_blank">{$LANG.contactus}</a>
+	<a href="{$WEB_ROOT}/serverstatus.php" target="">{$LANG.networkstatustitle}</a>
+	<a href="{$WEB_ROOT}/contact.php" target="">{$LANG.contactus}</a>
+	<a href="{$WEB_ROOT}/knowledgebase.php" target="">{$LANG.knowledgebasetitle}</a>
+	
 </div>
+	
 </section><!-- footer end -->
 {/if}
 {if $loggedin}<span id="gravataremail" class="hidden">{$clientsdetails.email}</span><!-- gravatar email -->{/if}

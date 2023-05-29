@@ -6,6 +6,7 @@
 		<!-- start domain slider -->
             <div class="carousel-cell">
                 <div class="silder-text">
+					<img src="https://nitradomedia.com/templates/coowhm-plus/img/logobig.png" width="40%" height="40%" alt=""/>
                     <h5>{$LANG.homebegin}</h5>
                     <p>{$LANG.cartdomainsconfigdesc}</p>
 					<form class="domain-chaker-homepage-style-2" method="post" action="domainchecker.php">
@@ -42,7 +43,9 @@
 					<div class="img-slider-elements domains">
 					<img src="{$WEB_ROOT}/templates/{$template}/img/slider/elements/slide-1/com.png" alt="" />
 					<img src="{$WEB_ROOT}/templates/{$template}/img/slider/elements/slide-1/de.png" alt="" />
+					<img src="{$WEB_ROOT}/templates/{$template}/img/slider/elements/slide-1/com.png" alt="" />
 					<img src="{$WEB_ROOT}/templates/{$template}/img/slider/elements/slide-1/net.png" alt="" />
+					<img src="{$WEB_ROOT}/templates/{$template}/img/slider/elements/slide-1/org.png" alt="" />
 					</div>
                 </div>
             </div>
@@ -54,7 +57,7 @@
 				{if $language eq 'arabic'}
 				<div class="notification-slider"><span class="badge">{$LANG.domainCheckerSalesGroup.hot}!</span><span class="text">نقدم خصم 50٪ للطلاب والمعلمين والتراخيص المجمعة.</span></div>
 				{else}
-				<div class="notification-slider"><span class="badge">{$LANG.domainCheckerSalesGroup.hot}!</span><span class="text">We provide a 50% discount for students, teachers and volume licenses.</span></div>
+				<div class="notification-slider"><span class="badge">{$LANG.domainCheckerSalesGroup.hot}!</span><span class="text">Wir bieten einen Rabatt von 50% für Studenten, Lehrer und Volumenlizenzen an. Wir engagieren uns dafür, Studenten, Lehrern und akademischen Institutionen zu helfen.</span></div>
 				{/if}
                     <h5>{$LANG.orderForm.chooseFromRange}</h5>
                     <p>{$LANG.cloudSlider.feature01DescriptionTwo}</p>
