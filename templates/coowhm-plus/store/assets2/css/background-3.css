@@ -1,0 +1,10 @@
+/* Background CSS File 
+	===================
+	Item Name: Valuation - Modern slider pricing tables.
+	Author: Ashishmaraviya
+	Version: 1.0
+	Copyright 2020
+===================*/
+.package_sec .owl-item.active.center .package_block {
+	background-image: url('../img/plan-bg-3.png') !important;
+}

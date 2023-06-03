@@ -12,7 +12,7 @@
 <span class="username">{$clientsdetails.firstname} {$clientsdetails.lastname} !</span>
 <a class="edit" href="clientarea.php?action=details">{$LANG.orderForm.update}</a>
 <a class="balance" href="clientarea.php?action=addfunds">{$clientsstats.creditbalance}</a>
-<span class="dash">your dashboard</span> 
+<span class="dash">Controllcenter</span> 
 <span class="adress">{$clientsdetails.address1},<br>{$clientsdetails.city} <b>{$clientsdetails.country}</b></span></h5>
 </div>
 

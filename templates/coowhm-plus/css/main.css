@@ -10316,7 +10316,7 @@ body.body-style-2.not-login-page {
 .container-clientarea{
     width: 100%;
     background: #fff;
-    background: radial-gradient(circle, rgb(122, 217, 234) 0%, rgb(129, 233, 251) 0%, rgb(123, 217, 233) 100%);
+    background: radial-gradient(circle, rgb(12, 39, 58) 0%, rgb(12, 39, 58) 0%, rgb(12, 39, 58) 100%);
     position: relative;
     border-radius: 8px;
     padding: 38px;
@@ -10331,7 +10331,7 @@ body.body-style-2.not-login-page {
 }
 .container-clientarea .header-accout-details a.edit{
     color: #fff;
-    background: #7130ff;
+    background: #0C273A;
     font-size: 10px;
     padding: 3px 10px;
     display: inline-block;

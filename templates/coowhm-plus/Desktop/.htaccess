@@ -1,0 +1,28 @@
+
+### BEGIN - WHMCS managed rules - DO NOT EDIT BETWEEN WHMCS MARKERS ###
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+# RewriteBase is set to "/" so rules do not need updating if the
+# installation directory is relocated.  It is imperative that
+# there is also a RewriteCond rule later that can effectively get
+# the actual value by comparison against the request URI.
+# 
+# If there are _any_ other RewriteBase directives in this file,
+# the last entry will take precedence!
+RewriteBase /
+
+# Redirect directories to an address with slash
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^(.+[^/])$  $1/ [R]
+
+# Send all remaining (routable paths) through index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+# Determine and use the actual base
+RewriteCond $0#%{REQUEST_URI} ([^#]*)#(.*)\1$
+RewriteRule ^.*$ %2index.php [QSA,L]
+</IfModule>
+### END - WHMCS managed rules - DO NOT EDIT BETWEEN WHMCS MARKERS ###
+
+

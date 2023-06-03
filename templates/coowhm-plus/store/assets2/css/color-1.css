@@ -1,0 +1,45 @@
+/* Color CSS File 
+	===================
+	Item Name: Valuation - Modern slider pricing tables.
+	Author: Ashishmaraviya
+	Version: 1.0
+	Copyright 2020
+===================*/
+.package_sec .owl-item.active.center .package_block, .package_sec .buy_btn, .package_sec.package_inn .package_block.select {
+	background: #4c3bb3;
+}
+.package_sec .owl-carousel .owl-dot.active span {
+	background: #4c3bb3;
+}
+.package_sec .owl-carousel .owl-dot span, .package_sec .package_block {
+	border: 1px solid #4c3bb3;
+}
+.package_sec .package_block h3 {
+	color: #4c3bb3;
+}
+.package_sec .owl-item.active.center .package_block .buy_btn {
+	background: #4c3bb3;
+	border: 1px solid #fff;
+	box-shadow: none;
+}
+.package_sec .buy_btn:hover {
+	background-color: #fff;
+	border: 1px solid #4c3bb3;
+    color: #4c3bb3;
+	box-shadow: none;
+}
+.package_sec .owl-item.active.center .package_block h3 {
+	color: #cfc7ff;
+}
+.package_sec .owl-carousel .owl-nav button.owl-prev:hover,
+.package_sec .owl-carousel .owl-nav button.owl-next:hover {
+	color: #fff !important;
+	background: #4c3bb3 !important;
+	border-color: #4c3bb3;
+}
+.package_sec .owl-carousel .owl-nav button.owl-prev,
+.package_sec .owl-carousel .owl-nav button.owl-next {
+	color: #4c3bb3 !important;
+	background: #fff !important;
+	border-color: #4c3bb3 !important;
+}
