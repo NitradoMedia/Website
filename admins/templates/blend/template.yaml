@@ -1,0 +1,11 @@
+name: "Blend Modern"
+description: "A modern, clean admin template for WHMCS with responsive design"
+author: "Custom"
+version: "1.0.0"
+properties:
+  serverSidePagination: false
+provides:
+  bootstrap: 5.3.2
+  jquery: 3.7.1
+  fontawesome: 6.5.1
+  chartjs: 4.4.1
